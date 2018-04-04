@@ -78,6 +78,3 @@ class IDCard {
     return substr($this->idCard, 16, 1) % 2;
   }
 }
-
-$idCard = new IDCard('530381199003180511');
-var_dump($idCard->getYear());
