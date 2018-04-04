@@ -1,5 +1,6 @@
 {
   "name": "identify/php-idcard",
+  "description": "tools resolve idcard.",
   "type": "library",
   "authors": [
     {
@@ -7,6 +8,7 @@
       "email": "1767575509@qq.com"
     }
   ],
+  "license": "MIT",
   "minimum-stability": "stable",
   "require": {
     "php": ">=7.0"
