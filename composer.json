@@ -7,7 +7,7 @@
       "email": "1767575509@qq.com"
     }
   ],
-  "minimum-stability": "beta",
+  "minimum-stability": "stable",
   "require": {
     "php": ">=7.0"
   },
