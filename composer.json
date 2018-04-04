@@ -1,0 +1,19 @@
+{
+  "name": "identify/php-idcard",
+  "type": "library",
+  "authors": [
+    {
+      "name": "pengzekuan",
+      "email": "1767575509@qq.com"
+    }
+  ],
+  "minimum-stability": "beta",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Identify\\": "src/Identify"
+    }
+  }
+}
