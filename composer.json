@@ -1,5 +1,5 @@
 {
-  "name": "identify/php-idcard",
+  "name": "identity/php-idcard",
   "description": "tools resolve idcard.",
   "type": "library",
   "authors": [
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Identify\\": "src/Identify"
+      "Identity\\": "src/Identity"
     }
   }
 }

@@ -1,5 +1,5 @@
 <?php
-namespace Identify;
+namespace Identity;
 
 class IDCard {
   public $idCard;
