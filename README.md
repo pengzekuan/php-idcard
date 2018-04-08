@@ -12,4 +12,4 @@
 
 ### usage
 
-- composer require identity/php-idcard
+- composer require identify/php-idcard
