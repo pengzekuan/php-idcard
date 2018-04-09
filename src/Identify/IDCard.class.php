@@ -7,7 +7,7 @@ class IDCard {
   public function __construct($idCard) {
     $this->idCard = $this->fixIdCard((string)$idCard);
     if (!preg_match('/^\d{15}$|^\d{17}$|^\d{17}(\d|x|X)$/', $this->idCard)) {
-      throw new Exception('invalid identify.');
+      throw new \Exception('invalid identify.');
     }
   }
 
