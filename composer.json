@@ -11,7 +11,7 @@
   "license": "MIT",
   "minimum-stability": "dev",
   "require": {
-    "php": ">=7.0"
+    "php": ">=5.5.9"
   },
   "autoload": {
     "psr-4": {
